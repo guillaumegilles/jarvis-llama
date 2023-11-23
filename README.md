@@ -1,6 +1,6 @@
 # Just A Rather Very Intelligent System (J.A.R.V.I.S.) with Llama
 
-![iamge of J.A.R.V.I.S from Ieon Man movies](png-transparent-jarvis-logo-edwin-jarvis-iron-man-youtube-marvel-cinematic-universe-male-jarvis-ui-comics-superhero-computer-thumbnail.png)
+![iamge of J.A.R.V.I.S from Ieon Man movies](J.A.R.V.I.S_Terre_199999_Portrait.jpg)
 
 Just A Rather Very Intelligent System with Llama and gradio interface
 
